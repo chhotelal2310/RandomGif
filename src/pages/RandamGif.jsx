@@ -4,7 +4,7 @@ import Tag from "../components/Tag";
 const RandamGif = () => {
   return (
     <>
-      <div className="w-screen min-h-screen bg-gray-400 pt-5">
+      <div className="w-screen min-h-screen bg-gray-400 pt-5 pb-5">
         <div className="w-full px-4 sm:px-12 flex flex-col justify-center items-center">
           <div className="bg-white text-center py-3 rounded-lg w-full">
             <h2 className="text-sm sm:text-lg font-extrabold">RANDOM GIF</h2>
