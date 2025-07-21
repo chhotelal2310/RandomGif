@@ -3,9 +3,9 @@ import RandamGif from "./pages/RandamGif";
 
 const App = () => {
   return (
-    <>
+    <div>
       <RandamGif />
-    </>
+    </div>
   );
 };
 
